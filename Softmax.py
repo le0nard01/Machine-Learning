@@ -35,7 +35,7 @@ activation1.forward(dense1.output)
 dense2.forward(activation1.output)
 activation2.forward(dense2.output)
 
-print(activation2.output[:5])
+#print(activation2.output[:5])
 
 
 
