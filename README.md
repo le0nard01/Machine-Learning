@@ -6,6 +6,6 @@ My projects and studies on machine learning, nothing serious, just learning that
 
 ### All Dependencies:
 nnfs  
-math 
+math  
 numpy   
-matplotlib 
+matplotlib  
