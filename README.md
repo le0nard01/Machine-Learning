@@ -1,11 +1,7 @@
-# Machine Learning Study
-### My study of Machine Learning
- 
-My projects and studies on machine learning, nothing serious, just learning that I want to store and in the future apply.
+# My Machine Learning studies
+The idea is showing all my ML/MLops studies, with a good description to help anyone.
+Feel free to reach me.
 
-![alt-text](https://analyticsindiamag.com/wp-content/uploads/2018/12/nural-network-banner.gif)
-### All Dependencies:
-nnfs  
-math  
-numpy   
-matplotlib  
+# Codes
+## Supervisioned
+[Predicting CPU Usage with Prophet algorithm.](Supervisioned/MLTimeSeries_Prophet.ipynb)
